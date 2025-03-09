@@ -1,0 +1,4 @@
+I am Hoang Van Truc, a final-year Business Data Analytics student passionate about uncovering insights from data and applying analytical techniques to solve real-world problems. Throughout my studies, I have developed skills in data analysis, machine learning, and business intelligence, working with tools such as Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, and Tableau.
+I have worked on projects related to customer insights, market trend analysis, and predictive modeling, where I gained experience in handling data, building models, and presenting findings in a meaningful way.
+With a strong foundation in critical thinking, problem-solving, and data-driven decision-making, I am eager to continue learning and applying my skills in data analytics and business intelligence. I look forward to connecting with professionals and peers who share my passion for data.
+Email: hoangtruc2730@gmail.com
