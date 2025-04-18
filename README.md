@@ -53,5 +53,5 @@ I’ve gained hands-on experience in:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangtruc2730&show_icons=true&theme=react" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HoangVanTruc&show_icons=true&theme=react" alt="GitHub Stats"/>
 </p>
